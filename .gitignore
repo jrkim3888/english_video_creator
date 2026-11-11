@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+eye-health-video/full/frames/
+eye-health-video/full/frames.txt
+eye-health-video/full/narration.wav
+eye-health-video/full/eye-health-english-learning.mp4
