@@ -1,0 +1,21 @@
+en1 2.1
+en2 4.09
+en3 3.62
+en4 3.65
+en5 2.46
+en6 3.16
+phrase 0.84
+example 2.48
+limit_en 3.03
+intro 7.09
+understand 8.81
+/project/sherpa-onnx/csrc/piper-phonemize-lexicon.cc:PiperPhonemesToIdsVits:144 Skip unknown phonemes. Unicode codepoint: \U+003f.
+ko1 2.96
+ko2 4.11
+shadow 6.63
+ko6 3.37
+expressions 6.5
+example_ko 5.66
+limit 8.29
+review 6.45
+outro 7.76

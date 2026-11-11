@@ -1,0 +1,1349 @@
+file 'cards/0000.png'
+option framerate 1000
+duration 14.740612245
+file 'cards/0001.png'
+option framerate 1000
+duration 2.351405896
+file 'cards/0002.png'
+option framerate 1000
+duration 4.337074830
+file 'cards/0003.png'
+option framerate 1000
+duration 3.872312925
+file 'cards/0004.png'
+option framerate 1000
+duration 3.897800454
+file 'cards/0005.png'
+option framerate 1000
+duration 2.711315193
+file 'cards/0006.png'
+option framerate 1000
+duration 2.722925170
+file 'cards/0007.png'
+option framerate 1000
+duration 3.410090703
+file 'cards/0008.png'
+option framerate 1000
+duration 4.710907029
+file 'cards/0009.png'
+option framerate 1000
+duration 3.451088435
+file 'cards/0010.png'
+option framerate 1000
+duration 2.537165533
+file 'cards/0011.png'
+option framerate 1000
+duration 2.764875283
+file 'cards/0012.png'
+option framerate 1000
+duration 4.388548753
+file 'cards/0013.png'
+option framerate 1000
+duration 2.868956916
+file 'cards/0014.png'
+option framerate 1000
+duration 2.563650794
+file 'cards/0015.png'
+option framerate 1000
+duration 3.354036281
+file 'cards/0016.png'
+option framerate 1000
+duration 3.688049887
+file 'cards/0017.png'
+option framerate 1000
+duration 2.799115646
+file 'cards/0018.png'
+option framerate 1000
+duration 3.732902494
+file 'cards/0019.png'
+option framerate 1000
+duration 4.610589569
+file 'cards/0020.png'
+option framerate 1000
+duration 3.541156463
+file 'cards/0021.png'
+option framerate 1000
+duration 4.081292517
+file 'cards/0022.png'
+option framerate 1000
+duration 3.794625850
+file 'cards/0023.png'
+option framerate 1000
+duration 3.144149660
+file 'cards/0024.png'
+option framerate 1000
+duration 2.984104308
+file 'cards/0025.png'
+option framerate 1000
+duration 3.251269841
+file 'cards/0026.png'
+option framerate 1000
+duration 3.280204082
+file 'cards/0027.png'
+option framerate 1000
+duration 3.958662132
+file 'cards/0028.png'
+option framerate 1000
+duration 3.407913832
+file 'cards/0029.png'
+option framerate 1000
+duration 3.651723356
+file 'cards/0030.png'
+option framerate 1000
+duration 3.440249433
+file 'cards/0031.png'
+option framerate 1000
+duration 3.593673469
+file 'cards/0032.png'
+option framerate 1000
+duration 4.963650794
+file 'cards/0033.png'
+option framerate 1000
+duration 3.021791383
+file 'cards/0034.png'
+option framerate 1000
+duration 2.502335601
+file 'cards/0035.png'
+option framerate 1000
+duration 2.425782313
+file 'cards/0036.png'
+option framerate 1000
+duration 9.333718821
+file 'cards/0037.png'
+option framerate 1000
+duration 2.351405896
+file 'cards/0038.png'
+option framerate 1000
+duration 3.205328798
+file 'cards/0039.png'
+option framerate 1000
+duration 4.337074830
+file 'cards/0040.png'
+option framerate 1000
+duration 4.361927438
+file 'cards/0041.png'
+option framerate 1000
+duration 3.872312925
+file 'cards/0042.png'
+option framerate 1000
+duration 4.704829932
+file 'cards/0043.png'
+option framerate 1000
+duration 3.897800454
+file 'cards/0044.png'
+option framerate 1000
+duration 5.002834467
+file 'cards/0045.png'
+option framerate 1000
+duration 2.711315193
+file 'cards/0046.png'
+option framerate 1000
+duration 3.720430839
+file 'cards/0047.png'
+option framerate 1000
+duration 13.209229025
+file 'cards/0048.png'
+option framerate 1000
+duration 2.722925170
+file 'cards/0049.png'
+option framerate 1000
+duration 3.512403628
+file 'cards/0050.png'
+option framerate 1000
+duration 3.410090703
+file 'cards/0051.png'
+option framerate 1000
+duration 3.620702948
+file 'cards/0052.png'
+option framerate 1000
+duration 4.710907029
+file 'cards/0053.png'
+option framerate 1000
+duration 5.712902494
+file 'cards/0054.png'
+option framerate 1000
+duration 3.451088435
+file 'cards/0055.png'
+option framerate 1000
+duration 3.881519274
+file 'cards/0056.png'
+option framerate 1000
+duration 2.537165533
+file 'cards/0057.png'
+option framerate 1000
+duration 4.278208617
+file 'cards/0058.png'
+option framerate 1000
+duration 12.880022676
+file 'cards/0059.png'
+option framerate 1000
+duration 2.764875283
+file 'cards/0060.png'
+option framerate 1000
+duration 3.173129252
+file 'cards/0061.png'
+option framerate 1000
+duration 4.388548753
+file 'cards/0062.png'
+option framerate 1000
+duration 5.347641723
+file 'cards/0063.png'
+option framerate 1000
+duration 2.868956916
+file 'cards/0064.png'
+option framerate 1000
+duration 3.684058957
+file 'cards/0065.png'
+option framerate 1000
+duration 2.563650794
+file 'cards/0066.png'
+option framerate 1000
+duration 3.740340136
+file 'cards/0067.png'
+option framerate 1000
+duration 3.354036281
+file 'cards/0068.png'
+option framerate 1000
+duration 4.620702948
+file 'cards/0069.png'
+option framerate 1000
+duration 11.915986395
+file 'cards/0070.png'
+option framerate 1000
+duration 3.688049887
+file 'cards/0071.png'
+option framerate 1000
+duration 4.540204082
+file 'cards/0072.png'
+option framerate 1000
+duration 2.799115646
+file 'cards/0073.png'
+option framerate 1000
+duration 3.372312925
+file 'cards/0074.png'
+option framerate 1000
+duration 3.732902494
+file 'cards/0075.png'
+option framerate 1000
+duration 4.225873016
+file 'cards/0076.png'
+option framerate 1000
+duration 4.610589569
+file 'cards/0077.png'
+option framerate 1000
+duration 5.512766440
+file 'cards/0078.png'
+option framerate 1000
+duration 3.541156463
+file 'cards/0079.png'
+option framerate 1000
+duration 4.605963719
+file 'cards/0080.png'
+option framerate 1000
+duration 12.785056689
+file 'cards/0081.png'
+option framerate 1000
+duration 4.081292517
+file 'cards/0082.png'
+option framerate 1000
+duration 4.894988662
+file 'cards/0083.png'
+option framerate 1000
+duration 3.794625850
+file 'cards/0084.png'
+option framerate 1000
+duration 5.204829932
+file 'cards/0085.png'
+option framerate 1000
+duration 3.144149660
+file 'cards/0086.png'
+option framerate 1000
+duration 4.178616780
+file 'cards/0087.png'
+option framerate 1000
+duration 2.984104308
+file 'cards/0088.png'
+option framerate 1000
+duration 4.523650794
+file 'cards/0089.png'
+option framerate 1000
+duration 3.251269841
+file 'cards/0090.png'
+option framerate 1000
+duration 4.775941043
+file 'cards/0091.png'
+option framerate 1000
+duration 12.999614512
+file 'cards/0092.png'
+option framerate 1000
+duration 3.280204082
+file 'cards/0093.png'
+option framerate 1000
+duration 4.474761905
+file 'cards/0094.png'
+option framerate 1000
+duration 3.958662132
+file 'cards/0095.png'
+option framerate 1000
+duration 4.878344671
+file 'cards/0096.png'
+option framerate 1000
+duration 3.407913832
+file 'cards/0097.png'
+option framerate 1000
+duration 3.401519274
+file 'cards/0098.png'
+option framerate 1000
+duration 3.651723356
+file 'cards/0099.png'
+option framerate 1000
+duration 5.241247166
+file 'cards/0100.png'
+option framerate 1000
+duration 3.440249433
+file 'cards/0101.png'
+option framerate 1000
+duration 5.064149660
+file 'cards/0102.png'
+option framerate 1000
+duration 13.271496599
+file 'cards/0103.png'
+option framerate 1000
+duration 3.593673469
+file 'cards/0104.png'
+option framerate 1000
+duration 3.668684807
+file 'cards/0105.png'
+option framerate 1000
+duration 4.963650794
+file 'cards/0106.png'
+option framerate 1000
+duration 4.943106576
+file 'cards/0107.png'
+option framerate 1000
+duration 3.021791383
+file 'cards/0108.png'
+option framerate 1000
+duration 4.892222222
+file 'cards/0109.png'
+option framerate 1000
+duration 2.502335601
+file 'cards/0110.png'
+option framerate 1000
+duration 3.094671202
+file 'cards/0111.png'
+option framerate 1000
+duration 2.425782313
+file 'cards/0112.png'
+option framerate 1000
+duration 4.590680272
+file 'cards/0113.png'
+option framerate 1000
+duration 14.086235828
+file 'cards/0114.png'
+option framerate 1000
+duration 11.944739229
+file 'cards/0115.png'
+option framerate 1000
+duration 2.351405896
+file 'cards/0116.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0117.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0118.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0119.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0120.png'
+option framerate 1000
+duration 4.337074830
+file 'cards/0121.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0122.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0123.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0124.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0125.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0126.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0127.png'
+option framerate 1000
+duration 3.872312925
+file 'cards/0128.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0129.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0130.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0131.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0132.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0133.png'
+option framerate 1000
+duration 3.897800454
+file 'cards/0134.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0135.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0136.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0137.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0138.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0139.png'
+option framerate 1000
+duration 2.711315193
+file 'cards/0140.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0141.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0142.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0143.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0144.png'
+option framerate 1000
+duration 2.722925170
+file 'cards/0145.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0146.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0147.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0148.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0149.png'
+option framerate 1000
+duration 3.410090703
+file 'cards/0150.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0151.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0152.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0153.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0154.png'
+option framerate 1000
+duration 4.710907029
+file 'cards/0155.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0156.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0157.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0158.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0159.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0160.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0161.png'
+option framerate 1000
+duration 3.451088435
+file 'cards/0162.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0163.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0164.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0165.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0166.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0167.png'
+option framerate 1000
+duration 2.537165533
+file 'cards/0168.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0169.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0170.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0171.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0172.png'
+option framerate 1000
+duration 2.764875283
+file 'cards/0173.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0174.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0175.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0176.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0177.png'
+option framerate 1000
+duration 4.388548753
+file 'cards/0178.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0179.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0180.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0181.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0182.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0183.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0184.png'
+option framerate 1000
+duration 2.868956916
+file 'cards/0185.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0186.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0187.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0188.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0189.png'
+option framerate 1000
+duration 2.563650794
+file 'cards/0190.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0191.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0192.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0193.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0194.png'
+option framerate 1000
+duration 3.354036281
+file 'cards/0195.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0196.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0197.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0198.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0199.png'
+option framerate 1000
+duration 3.688049887
+file 'cards/0200.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0201.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0202.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0203.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0204.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0205.png'
+option framerate 1000
+duration 2.799115646
+file 'cards/0206.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0207.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0208.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0209.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0210.png'
+option framerate 1000
+duration 3.732902494
+file 'cards/0211.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0212.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0213.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0214.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0215.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0216.png'
+option framerate 1000
+duration 4.610589569
+file 'cards/0217.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0218.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0219.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0220.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0221.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0222.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0223.png'
+option framerate 1000
+duration 3.541156463
+file 'cards/0224.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0225.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0226.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0227.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0228.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0229.png'
+option framerate 1000
+duration 4.081292517
+file 'cards/0230.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0231.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0232.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0233.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0234.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0235.png'
+option framerate 1000
+duration 3.794625850
+file 'cards/0236.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0237.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0238.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0239.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0240.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0241.png'
+option framerate 1000
+duration 3.144149660
+file 'cards/0242.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0243.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0244.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0245.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0246.png'
+option framerate 1000
+duration 2.984104308
+file 'cards/0247.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0248.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0249.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0250.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0251.png'
+option framerate 1000
+duration 3.251269841
+file 'cards/0252.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0253.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0254.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0255.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0256.png'
+option framerate 1000
+duration 3.280204082
+file 'cards/0257.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0258.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0259.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0260.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0261.png'
+option framerate 1000
+duration 3.958662132
+file 'cards/0262.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0263.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0264.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0265.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0266.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0267.png'
+option framerate 1000
+duration 3.407913832
+file 'cards/0268.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0269.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0270.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0271.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0272.png'
+option framerate 1000
+duration 3.651723356
+file 'cards/0273.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0274.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0275.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0276.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0277.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0278.png'
+option framerate 1000
+duration 3.440249433
+file 'cards/0279.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0280.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0281.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0282.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0283.png'
+option framerate 1000
+duration 3.593673469
+file 'cards/0284.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0285.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0286.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0287.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0288.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0289.png'
+option framerate 1000
+duration 4.963650794
+file 'cards/0290.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0291.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0292.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0293.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0294.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0295.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0296.png'
+option framerate 1000
+duration 3.021791383
+file 'cards/0297.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0298.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0299.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0300.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0301.png'
+option framerate 1000
+duration 2.502335601
+file 'cards/0302.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0303.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0304.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0305.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0306.png'
+option framerate 1000
+duration 2.425782313
+file 'cards/0307.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0308.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0309.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0310.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0311.png'
+option framerate 1000
+duration 2.351405896
+file 'cards/0312.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0313.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0314.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0315.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0316.png'
+option framerate 1000
+duration 3.410090703
+file 'cards/0317.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0318.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0319.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0320.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0321.png'
+option framerate 1000
+duration 2.799115646
+file 'cards/0322.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0323.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0324.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0325.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0326.png'
+option framerate 1000
+duration 3.280204082
+file 'cards/0327.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0328.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0329.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0330.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0331.png'
+option framerate 1000
+duration 2.425782313
+file 'cards/0332.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0333.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0334.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0335.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0336.png'
+option framerate 1000
+duration 8.567233560
+file 'cards/0337.png'
+option framerate 1000
+duration 1.290907029
+file 'cards/0338.png'
+option framerate 1000
+duration 7.613038549
+file 'cards/0339.png'
+option framerate 1000
+duration 4.115895692
+file 'cards/0340.png'
+option framerate 1000
+duration 2.676485261
+file 'cards/0341.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0342.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0343.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0344.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0345.png'
+option framerate 1000
+duration 4.746689342
+file 'cards/0346.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0347.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0348.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0349.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0350.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0351.png'
+option framerate 1000
+duration 2.676485261
+file 'cards/0352.png'
+option framerate 1000
+duration 1.085918367
+file 'cards/0353.png'
+option framerate 1000
+duration 9.650770975
+file 'cards/0354.png'
+option framerate 1000
+duration 3.428321995
+file 'cards/0355.png'
+option framerate 1000
+duration 2.732222222
+file 'cards/0356.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0357.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0358.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0359.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0360.png'
+option framerate 1000
+duration 4.237528345
+file 'cards/0361.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0362.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0363.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0364.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0365.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0366.png'
+option framerate 1000
+duration 2.732222222
+file 'cards/0367.png'
+option framerate 1000
+duration 1.291768707
+file 'cards/0368.png'
+option framerate 1000
+duration 9.269682540
+file 'cards/0369.png'
+option framerate 1000
+duration 3.337482993
+file 'cards/0370.png'
+option framerate 1000
+duration 2.955124717
+file 'cards/0371.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0372.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0373.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0374.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0375.png'
+option framerate 1000
+duration 4.211269841
+file 'cards/0376.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0377.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0378.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0379.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0380.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0381.png'
+option framerate 1000
+duration 2.955124717
+file 'cards/0382.png'
+option framerate 1000
+duration 1.093900227
+file 'cards/0383.png'
+option framerate 1000
+duration 10.146009070
+file 'cards/0384.png'
+option framerate 1000
+duration 4.424784580
+file 'cards/0385.png'
+option framerate 1000
+duration 3.031133787
+file 'cards/0386.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0387.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0388.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0389.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0390.png'
+option framerate 1000
+duration 4.984739229
+file 'cards/0391.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0392.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0393.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0394.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0395.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0396.png'
+option framerate 1000
+duration 3.031133787
+file 'cards/0397.png'
+option framerate 1000
+duration 1.621700680
+file 'cards/0398.png'
+option framerate 1000
+duration 9.186009070
+file 'cards/0399.png'
+option framerate 1000
+duration 4.177936508
+file 'cards/0400.png'
+option framerate 1000
+duration 2.490272109
+file 'cards/0401.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0402.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0403.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0404.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0405.png'
+option framerate 1000
+duration 5.079433107
+file 'cards/0406.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0407.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0408.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0409.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0410.png'
+option framerate 1000
+duration 1.000000000
+file 'cards/0411.png'
+option framerate 1000
+duration 2.490272109
+file 'cards/0412.png'
+option framerate 1000
+duration 11.211269841
+file 'cards/0413.png'
+option framerate 1000
+duration 2.351405896
+file 'cards/0414.png'
+option framerate 1000
+duration 4.337074830
+file 'cards/0415.png'
+option framerate 1000
+duration 3.872312925
+file 'cards/0416.png'
+option framerate 1000
+duration 3.897800454
+file 'cards/0417.png'
+option framerate 1000
+duration 2.711315193
+file 'cards/0418.png'
+option framerate 1000
+duration 2.722925170
+file 'cards/0419.png'
+option framerate 1000
+duration 3.410090703
+file 'cards/0420.png'
+option framerate 1000
+duration 4.710907029
+file 'cards/0421.png'
+option framerate 1000
+duration 3.451088435
+file 'cards/0422.png'
+option framerate 1000
+duration 2.537165533
+file 'cards/0423.png'
+option framerate 1000
+duration 2.764875283
+file 'cards/0424.png'
+option framerate 1000
+duration 4.388548753
+file 'cards/0425.png'
+option framerate 1000
+duration 2.868956916
+file 'cards/0426.png'
+option framerate 1000
+duration 2.563650794
+file 'cards/0427.png'
+option framerate 1000
+duration 3.354036281
+file 'cards/0428.png'
+option framerate 1000
+duration 3.688049887
+file 'cards/0429.png'
+option framerate 1000
+duration 2.799115646
+file 'cards/0430.png'
+option framerate 1000
+duration 3.732902494
+file 'cards/0431.png'
+option framerate 1000
+duration 4.610589569
+file 'cards/0432.png'
+option framerate 1000
+duration 3.541156463
+file 'cards/0433.png'
+option framerate 1000
+duration 4.081292517
+file 'cards/0434.png'
+option framerate 1000
+duration 3.794625850
+file 'cards/0435.png'
+option framerate 1000
+duration 3.144149660
+file 'cards/0436.png'
+option framerate 1000
+duration 2.984104308
+file 'cards/0437.png'
+option framerate 1000
+duration 3.251269841
+file 'cards/0438.png'
+option framerate 1000
+duration 3.280204082
+file 'cards/0439.png'
+option framerate 1000
+duration 3.958662132
+file 'cards/0440.png'
+option framerate 1000
+duration 3.407913832
+file 'cards/0441.png'
+option framerate 1000
+duration 3.651723356
+file 'cards/0442.png'
+option framerate 1000
+duration 3.440249433
+file 'cards/0443.png'
+option framerate 1000
+duration 3.593673469
+file 'cards/0444.png'
+option framerate 1000
+duration 4.963650794
+file 'cards/0445.png'
+option framerate 1000
+duration 3.021791383
+file 'cards/0446.png'
+option framerate 1000
+duration 2.502335601
+file 'cards/0447.png'
+option framerate 1000
+duration 2.425782313
+file 'cards/0448.png'
+option framerate 1000
+duration 17.941065760
+file 'cards/0448.png'
+option framerate 1000

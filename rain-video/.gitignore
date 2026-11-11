@@ -1,0 +1,3 @@
+# Downloadable TTS weights and duplicate synthesis cache are not example outputs.
+models/
+audio-cache/

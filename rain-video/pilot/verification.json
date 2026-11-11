@@ -1,0 +1,138 @@
+{
+  "total_seconds": 139.86907029478456,
+  "audio_checks": [
+    {
+      "clip": "en1",
+      "seconds": 2.101,
+      "peak": 0.6899,
+      "rms": 0.1094
+    },
+    {
+      "clip": "en2",
+      "seconds": 4.087,
+      "peak": 0.5591,
+      "rms": 0.0855
+    },
+    {
+      "clip": "en3",
+      "seconds": 3.622,
+      "peak": 0.5617,
+      "rms": 0.0837
+    },
+    {
+      "clip": "en4",
+      "seconds": 3.648,
+      "peak": 0.5476,
+      "rms": 0.0812
+    },
+    {
+      "clip": "en5",
+      "seconds": 2.461,
+      "peak": 0.7084,
+      "rms": 0.1178
+    },
+    {
+      "clip": "en6",
+      "seconds": 3.16,
+      "peak": 0.6197,
+      "rms": 0.0994
+    },
+    {
+      "clip": "phrase",
+      "seconds": 0.836,
+      "peak": 0.6859,
+      "rms": 0.1486
+    },
+    {
+      "clip": "example",
+      "seconds": 2.482,
+      "peak": 0.7356,
+      "rms": 0.1241
+    },
+    {
+      "clip": "limit_en",
+      "seconds": 3.03,
+      "peak": 0.5069,
+      "rms": 0.082
+    },
+    {
+      "clip": "intro",
+      "seconds": 7.092,
+      "peak": 0.5984,
+      "rms": 0.1019
+    },
+    {
+      "clip": "understand",
+      "seconds": 8.811,
+      "peak": 0.6105,
+      "rms": 0.0872
+    },
+    {
+      "clip": "ko1",
+      "seconds": 2.955,
+      "peak": 0.6263,
+      "rms": 0.1018
+    },
+    {
+      "clip": "ko2",
+      "seconds": 4.112,
+      "peak": 0.5777,
+      "rms": 0.1034
+    },
+    {
+      "clip": "shadow",
+      "seconds": 6.633,
+      "peak": 0.6763,
+      "rms": 0.0964
+    },
+    {
+      "clip": "ko6",
+      "seconds": 3.371,
+      "peak": 0.6519,
+      "rms": 0.0947
+    },
+    {
+      "clip": "expressions",
+      "seconds": 6.502,
+      "peak": 0.5582,
+      "rms": 0.0894
+    },
+    {
+      "clip": "example_ko",
+      "seconds": 5.656,
+      "peak": 0.5523,
+      "rms": 0.0883
+    },
+    {
+      "clip": "limit",
+      "seconds": 8.286,
+      "peak": 0.7949,
+      "rms": 0.1006
+    },
+    {
+      "clip": "review",
+      "seconds": 6.451,
+      "peak": 0.7352,
+      "rms": 0.0997
+    },
+    {
+      "clip": "outro",
+      "seconds": 7.764,
+      "peak": 0.4889,
+      "rms": 0.0923
+    }
+  ],
+  "first_listen_body_hidden": true,
+  "shadow_repeats": 2,
+  "full_listening_review": false,
+  "encoded_video": {
+    "duration_seconds": 139.86898,
+    "width": 1280,
+    "height": 720,
+    "video_codec": "h264",
+    "audio_codec": "aac"
+  },
+  "full_decode": "passed",
+  "representative_encoded_frame": "checked",
+  "human_listening_review": "not_completed"
+}

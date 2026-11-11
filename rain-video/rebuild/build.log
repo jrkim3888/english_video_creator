@@ -1,0 +1,5 @@
+encoding 1159.8302267573692 449
+[aist#2:0/pcm_s16le @ 0x56128b0298c0] Guessed Channel Layout: mono
+[swscaler @ 0x7fdff4026040] deprecated pixel format used, make sure you did set range correctly
+[out_#0:0 @ 0x7fdff40142c0] 100 buffers queued in out_#0:0, something may be wrong.
+DONE

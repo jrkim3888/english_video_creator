@@ -1,0 +1,1349 @@
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 14.740612245
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.351405896
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 4.337074830
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 3.872312925
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 3.897800454
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.711315193
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.722925170
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 3.410090703
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 4.710907029
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 3.451088435
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.537165533
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.764875283
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 4.388548753
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.868956916
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.563650794
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 3.354036281
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 3.688049887
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 2.799115646
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 3.732902494
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 4.610589569
+file 'backgrounds/roof.jpg'
+option framerate 1000
+duration 3.541156463
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 4.081292517
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 3.794625850
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 3.144149660
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 2.984104308
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 3.251269841
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.280204082
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.958662132
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.407913832
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.651723356
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.440249433
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 3.593673469
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 4.963650794
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 3.021791383
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.502335601
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.425782313
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 9.333718821
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.351405896
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 3.205328798
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 4.337074830
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 4.361927438
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 3.872312925
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 4.704829932
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 3.897800454
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 5.002834467
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.711315193
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 3.720430839
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 13.209229025
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.722925170
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 3.512403628
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 3.410090703
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 3.620702948
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 4.710907029
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 5.712902494
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 3.451088435
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 3.881519274
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.537165533
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 4.278208617
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 12.880022676
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.764875283
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 3.173129252
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 4.388548753
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 5.347641723
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.868956916
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 3.684058957
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.563650794
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 3.740340136
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 3.354036281
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 4.620702948
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 11.915986395
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 3.688049887
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 4.540204082
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 2.799115646
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 3.372312925
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 3.732902494
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 4.225873016
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 4.610589569
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 5.512766440
+file 'backgrounds/roof.jpg'
+option framerate 1000
+duration 3.541156463
+file 'backgrounds/roof.jpg'
+option framerate 1000
+duration 4.605963719
+file 'backgrounds/roof.jpg'
+option framerate 1000
+duration 12.785056689
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 4.081292517
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 4.894988662
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 3.794625850
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 5.204829932
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 3.144149660
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 4.178616780
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 2.984104308
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 4.523650794
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 3.251269841
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 4.775941043
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 12.999614512
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.280204082
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 4.474761905
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.958662132
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 4.878344671
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.407913832
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.401519274
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.651723356
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 5.241247166
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.440249433
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 5.064149660
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 13.271496599
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 3.593673469
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 3.668684807
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 4.963650794
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 4.943106576
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 3.021791383
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 4.892222222
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.502335601
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 3.094671202
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.425782313
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 4.590680272
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 14.086235828
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 11.944739229
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.351405896
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 4.337074830
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 3.872312925
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 3.897800454
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.711315193
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.722925170
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 3.410090703
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 4.710907029
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 3.451088435
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.537165533
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.764875283
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 4.388548753
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.868956916
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.563650794
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 3.354036281
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 3.688049887
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 2.799115646
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 3.732902494
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 4.610589569
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/roof.jpg'
+option framerate 1000
+duration 3.541156463
+file 'backgrounds/roof.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/roof.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/roof.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/roof.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/roof.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 4.081292517
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 3.794625850
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 3.144149660
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 2.984104308
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 3.251269841
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.280204082
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.958662132
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.407913832
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.651723356
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.440249433
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 3.593673469
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 4.963650794
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 3.021791383
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.502335601
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.425782313
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.351405896
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 3.410090703
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 2.799115646
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.280204082
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.425782313
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 8.567233560
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.290907029
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 7.613038549
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 4.115895692
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.676485261
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 4.746689342
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.676485261
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.085918367
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 9.650770975
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 3.428321995
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 2.732222222
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 4.237528345
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 2.732222222
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.291768707
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 9.269682540
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 3.337482993
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 2.955124717
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 4.211269841
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 2.955124717
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.093900227
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 10.146009070
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 4.424784580
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 3.031133787
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 4.984739229
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 3.031133787
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.621700680
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 9.186009070
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 4.177936508
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.490272109
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 5.079433107
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 1.000000000
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.490272109
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 11.211269841
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.351405896
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 4.337074830
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 3.872312925
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 3.897800454
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.711315193
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.722925170
+file 'backgrounds/forest.jpg'
+option framerate 1000
+duration 3.410090703
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 4.710907029
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 3.451088435
+file 'backgrounds/city.jpg'
+option framerate 1000
+duration 2.537165533
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.764875283
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 4.388548753
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.868956916
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.563650794
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 3.354036281
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 3.688049887
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 2.799115646
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 3.732902494
+file 'backgrounds/pavement.jpg'
+option framerate 1000
+duration 4.610589569
+file 'backgrounds/roof.jpg'
+option framerate 1000
+duration 3.541156463
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 4.081292517
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 3.794625850
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 3.144149660
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 2.984104308
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 3.251269841
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.280204082
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.958662132
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.407913832
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.651723356
+file 'backgrounds/care.jpg'
+option framerate 1000
+duration 3.440249433
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 3.593673469
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 4.963650794
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 3.021791383
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.502335601
+file 'backgrounds/rain-garden.jpg'
+option framerate 1000
+duration 2.425782313
+file 'backgrounds/benefits.jpg'
+option framerate 1000
+duration 17.941065760
+file 'backgrounds/benefits.jpg'
+option framerate 1000

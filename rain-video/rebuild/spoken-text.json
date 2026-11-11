@@ -1,0 +1,434 @@
+{
+  "en-01": {
+    "language": "en",
+    "text": "What if a city could drink the rain?"
+  },
+  "ko-01": {
+    "language": "ko",
+    "text": "도시가 빗물을 마실 수 있다면 어떨까요?"
+  },
+  "en-02": {
+    "language": "en",
+    "text": "During a storm, water runs across roads and sidewalks."
+  },
+  "ko-02": {
+    "language": "ko",
+    "text": "폭풍우가 치는 동안 물은 도로와 인도를 따라 흘러갑니다."
+  },
+  "en-03": {
+    "language": "en",
+    "text": "It carries dirt and oil toward street drains."
+  },
+  "ko-03": {
+    "language": "ko",
+    "text": "그 물은 흙과 기름을 실어 빗물 배수구 쪽으로 이동합니다."
+  },
+  "en-04": {
+    "language": "en",
+    "text": "When too much water comes at once, streets may flood."
+  },
+  "ko-04": {
+    "language": "ko",
+    "text": "한꺼번에 너무 많은 물이 몰리면 거리가 침수될 수 있습니다."
+  },
+  "en-05": {
+    "language": "en",
+    "text": "But there is another way to handle rain."
+  },
+  "ko-05": {
+    "language": "ko",
+    "text": "하지만 빗물을 처리하는 다른 방법도 있습니다."
+  },
+  "en-06": {
+    "language": "en",
+    "text": "Hard surfaces are part of the problem."
+  },
+  "ko-06": {
+    "language": "ko",
+    "text": "딱딱한 지표면이 문제의 한 원인입니다."
+  },
+  "en-07": {
+    "language": "en",
+    "text": "In a forest, soil and plants take in rain."
+  },
+  "ko-07": {
+    "language": "ko",
+    "text": "숲에서는 흙과 식물이 빗물을 흡수합니다."
+  },
+  "en-08": {
+    "language": "en",
+    "text": "In a city, roofs and roads stop much of the water from entering the ground."
+  },
+  "ko-08": {
+    "language": "ko",
+    "text": "도시에서는 지붕과 도로 때문에 많은 빗물이 땅속으로 스며들지 못합니다."
+  },
+  "en-09": {
+    "language": "en",
+    "text": "So water moves faster into drains and rivers."
+  },
+  "ko-09": {
+    "language": "ko",
+    "text": "그래서 물은 배수구와 강으로 더 빠르게 흘러갑니다."
+  },
+  "en-10": {
+    "language": "en",
+    "text": "This moving water is called runoff."
+  },
+  "ko-10": {
+    "language": "ko",
+    "text": "이렇게 지표면을 따라 흐르는 물을 유출수라고 합니다."
+  },
+  "en-11": {
+    "language": "en",
+    "text": "One answer is green infrastructure."
+  },
+  "ko-11": {
+    "language": "ko",
+    "text": "한 가지 해결책은 그린 인프라입니다."
+  },
+  "en-12": {
+    "language": "en",
+    "text": "This means using plants and special surfaces to manage rain."
+  },
+  "ko-12": {
+    "language": "ko",
+    "text": "이는 식물과 특수한 지표면을 활용해 빗물을 관리한다는 뜻입니다."
+  },
+  "en-13": {
+    "language": "en",
+    "text": "A rain garden may look like a flower bed."
+  },
+  "ko-13": {
+    "language": "ko",
+    "text": "빗물 정원은 일반 화단처럼 보일 수 있습니다."
+  },
+  "en-14": {
+    "language": "en",
+    "text": "But it sits lower than the ground around it."
+  },
+  "ko-14": {
+    "language": "ko",
+    "text": "하지만 주변 땅보다 낮게 만들어져 있습니다."
+  },
+  "en-15": {
+    "language": "en",
+    "text": "It collects water and lets some of it enter the soil."
+  },
+  "ko-15": {
+    "language": "ko",
+    "text": "이곳은 물을 모으고 그중 일부가 흙으로 스며들게 합니다."
+  },
+  "en-16": {
+    "language": "en",
+    "text": "Some roads and parking areas use special pavement."
+  },
+  "ko-16": {
+    "language": "ko",
+    "text": "일부 도로와 주차장에는 특수한 포장재를 사용합니다."
+  },
+  "en-17": {
+    "language": "en",
+    "text": "This pavement lets water pass through."
+  },
+  "ko-17": {
+    "language": "ko",
+    "text": "이 포장재는 물이 통과하도록 해 줍니다."
+  },
+  "en-18": {
+    "language": "en",
+    "text": "Stone under the surface can hold rain for a short time."
+  },
+  "ko-18": {
+    "language": "ko",
+    "text": "표면 아래의 자갈층은 빗물을 잠시 저장할 수 있습니다."
+  },
+  "en-19": {
+    "language": "en",
+    "text": "Some water enters the ground, and extra water may go into pipes."
+  },
+  "ko-19": {
+    "language": "ko",
+    "text": "일부 물은 땅속으로 스며들고, 남는 물은 배관으로 흘러갈 수도 있습니다."
+  },
+  "en-20": {
+    "language": "en",
+    "text": "Plants on roofs can also catch and hold rain."
+  },
+  "ko-20": {
+    "language": "ko",
+    "text": "지붕 위의 식물도 빗물을 받아 머금는 데 도움이 됩니다."
+  },
+  "en-21": {
+    "language": "en",
+    "text": "These changes can do more than reduce water on streets."
+  },
+  "ko-21": {
+    "language": "ko",
+    "text": "이러한 변화는 거리의 물을 줄이는 것 이상의 일을 할 수 있습니다."
+  },
+  "en-22": {
+    "language": "en",
+    "text": "Rain can carry oil, trash, and other pollution."
+  },
+  "ko-22": {
+    "language": "ko",
+    "text": "빗물은 기름, 쓰레기, 그 밖의 오염물질을 실어 나를 수 있습니다."
+  },
+  "en-23": {
+    "language": "en",
+    "text": "Gardens and soil can help filter some of it."
+  },
+  "ko-23": {
+    "language": "ko",
+    "text": "정원과 흙은 그중 일부를 걸러 내는 데 도움이 됩니다."
+  },
+  "en-24": {
+    "language": "en",
+    "text": "Trees can also make city streets cooler."
+  },
+  "ko-24": {
+    "language": "ko",
+    "text": "나무는 도시의 거리를 더 시원하게 만들 수도 있습니다."
+  },
+  "en-25": {
+    "language": "en",
+    "text": "A small green space can have several jobs."
+  },
+  "ko-25": {
+    "language": "ko",
+    "text": "작은 녹지 공간 하나가 여러 역할을 할 수 있는 것입니다."
+  },
+  "en-26": {
+    "language": "en",
+    "text": "But green spaces cannot stop every flood."
+  },
+  "ko-26": {
+    "language": "ko",
+    "text": "하지만 녹지 공간이 모든 홍수를 막을 수는 없습니다."
+  },
+  "en-27": {
+    "language": "en",
+    "text": "During a very strong storm, too much rain may fall."
+  },
+  "ko-27": {
+    "language": "ko",
+    "text": "매우 강한 폭풍우가 오면 지나치게 많은 비가 내릴 수 있습니다."
+  },
+  "en-28": {
+    "language": "en",
+    "text": "Good design and regular care are important."
+  },
+  "ko-28": {
+    "language": "ko",
+    "text": "좋은 설계와 정기적인 관리가 중요합니다."
+  },
+  "en-29": {
+    "language": "en",
+    "text": "Cities still need drains and pipes for extra water."
+  },
+  "ko-29": {
+    "language": "ko",
+    "text": "도시에는 여분의 물을 흘려보낼 배수구와 배관도 여전히 필요합니다."
+  },
+  "en-30": {
+    "language": "en",
+    "text": "Experts study how these systems can work together."
+  },
+  "ko-30": {
+    "language": "ko",
+    "text": "전문가들은 이런 시설들이 어떻게 함께 작동할 수 있는지 연구합니다."
+  },
+  "en-31": {
+    "language": "en",
+    "text": "Next time it rains, look around your neighborhood."
+  },
+  "ko-31": {
+    "language": "ko",
+    "text": "다음에 비가 오면 동네를 한번 둘러보세요."
+  },
+  "en-32": {
+    "language": "en",
+    "text": "You may see a garden beside a road or special pavement in a parking lot."
+  },
+  "ko-32": {
+    "language": "ko",
+    "text": "도로 옆의 정원이나 주차장의 특수 포장재를 발견할 수도 있습니다."
+  },
+  "en-33": {
+    "language": "en",
+    "text": "It may be helping water move more slowly."
+  },
+  "ko-33": {
+    "language": "ko",
+    "text": "그것이 물의 흐름을 늦추는 역할을 하고 있을지 모릅니다."
+  },
+  "en-34": {
+    "language": "en",
+    "text": "A city cannot control the rain."
+  },
+  "ko-34": {
+    "language": "ko",
+    "text": "도시는 비 자체를 통제할 수는 없습니다."
+  },
+  "en-35": {
+    "language": "en",
+    "text": "But it can make more room for it."
+  },
+  "ko-35": {
+    "language": "ko",
+    "text": "하지만 빗물이 머물 공간을 더 많이 만들 수는 있습니다."
+  },
+  "note-1": {
+    "language": "ko",
+    "text": "첫 문장의 도시는 실제로 물을 마시는 것이 아닙니다. 빗물을 받아들이는 모습을 비유하고 있습니다. 한꺼번에 많은 물이 몰릴 때 거리가 침수될 수 있다는 점에 주목하세요."
+  },
+  "note-2": {
+    "language": "ko",
+    "text": "이 문단은 숲과 도시를 비교합니다. 흙과 식물은 비를 흡수하지만, 지붕과 도로는 물이 땅속으로 들어가는 것을 막습니다. 지표면을 따라 흐르는 물을 유출수라고 합니다."
+  },
+  "note-3": {
+    "language": "ko",
+    "text": "빗물 정원은 주변 지면보다 낮게 만들어집니다. 물을 모아 일부가 흙으로 스며들도록 하는 것이 핵심입니다. 모든 물이 반드시 땅속으로 들어간다는 뜻은 아닙니다."
+  },
+  "note-4": {
+    "language": "ko",
+    "text": "투수성 포장 아래의 자갈은 물을 잠시 머금습니다. 물의 일부는 땅으로 스며들고, 넘치는 물은 설계에 따라 배관으로 이동할 수 있습니다. 녹화 지붕도 비를 받아 머금을 수 있습니다."
+  },
+  "note-5": {
+    "language": "ko",
+    "text": "녹지 공간은 빗물의 양과 흐름을 다루는 것 외에도 여러 역할을 할 수 있습니다. 흙은 오염물질 일부를 거르는 데 도움이 되고, 나무는 거리를 더 시원하게 만들 수 있습니다."
+  },
+  "note-6": {
+    "language": "ko",
+    "text": "이 문단은 해결책의 한계를 설명합니다. 매우 강한 비에는 녹지 공간만으로 충분하지 않을 수 있습니다. 좋은 설계와 꾸준한 관리, 그리고 배수구와 배관이 함께 필요합니다."
+  },
+  "note-7": {
+    "language": "ko",
+    "text": "마지막 문장은 앞에서 나온 도시를 가리킵니다. 비 자체를 통제할 수는 없지만, 빗물이 머물 공간을 더 만들 수 있다는 뜻입니다. 정원과 포장재를 주변에서 찾아보라는 제안으로 글을 마칩니다."
+  },
+  "intro": {
+    "language": "ko",
+    "text": "안녕하세요. 오늘은 도시가 빗물을 어떻게 받아들일 수 있는지 영어로 알아보겠습니다. 전체 이야기를 듣고, 문장의 뜻을 확인하고, 직접 따라 말해 보겠습니다. 먼저 영어 자막 없이 흐름에 집중해 보세요."
+  },
+  "understand": {
+    "language": "ko",
+    "text": "이제 한 문장씩 뜻을 살펴보겠습니다. 영어 문장을 듣고 한국어 뜻을 확인하세요. 문단이 끝나면 핵심 내용을 정리해 드리겠습니다."
+  },
+  "shadow": {
+    "language": "ko",
+    "text": "이번에는 따라 말하기입니다. 문장을 들은 뒤 말할 차례에 소리 내어 따라 하세요. 화면에 남은 시간이 표시됩니다. 핵심 문장은 한 번 더 연습하겠습니다."
+  },
+  "expressions": {
+    "language": "ko",
+    "text": "이제 학습노트의 핵심 표현 다섯 개를 연습하겠습니다. 뜻과 예문을 확인하고, 한국어 뜻을 보고 영어로 말해 보세요."
+  },
+  "final": {
+    "language": "ko",
+    "text": "전체 이야기를 다시 들어 보겠습니다. 이번에는 영어 자막을 보면서 내용을 확인해 보세요. 처음보다 어떤 표현이 더 잘 들리는지 살펴보세요."
+  },
+  "outro": {
+    "language": "ko",
+    "text": "오늘은 도시의 빗물 관리에 관한 영어를 연습했습니다. 흙과 식물의 흡수, 물이 통과하는 포장재, 그리고 녹지 공간과 배수시설의 협력을 기억해 보세요. 핵심 표현을 일상에서도 소리 내어 말하며 복습해 보세요. 함께해 주셔서 감사합니다."
+  },
+  "phrase-1": {
+    "language": "en",
+    "text": "handle rain"
+  },
+  "example-1": {
+    "language": "en",
+    "text": "We need a better way to handle rain."
+  },
+  "explain-1": {
+    "language": "ko",
+    "text": "첫 번째 표현은 빗물을 처리하다라는 뜻입니다. 처리하는 대상이 비나 빗물일 때 쓸 수 있습니다."
+  },
+  "translation-1": {
+    "language": "ko",
+    "text": "우리는 빗물을 처리할 더 나은 방법이 필요합니다."
+  },
+  "recall-1": {
+    "language": "ko",
+    "text": "빗물을 처리할 더 나은 방법이 필요하다고 말해 보세요."
+  },
+  "phrase-2": {
+    "language": "en",
+    "text": "take in"
+  },
+  "example-2": {
+    "language": "en",
+    "text": "Healthy soil can take in rainwater."
+  },
+  "explain-2": {
+    "language": "ko",
+    "text": "두 번째 표현은 흡수하다, 또는 받아들이다라는 뜻입니다. 여기서는 흙과 식물이 빗물을 흡수하는 모습을 나타냅니다."
+  },
+  "translation-2": {
+    "language": "ko",
+    "text": "건강한 흙은 빗물을 흡수할 수 있습니다."
+  },
+  "recall-2": {
+    "language": "ko",
+    "text": "건강한 흙은 빗물을 흡수할 수 있다고 말해 보세요."
+  },
+  "phrase-3": {
+    "language": "en",
+    "text": "pass through"
+  },
+  "example-3": {
+    "language": "en",
+    "text": "Water can pass through this special pavement."
+  },
+  "explain-3": {
+    "language": "ko",
+    "text": "세 번째 표현은 통과하다라는 뜻입니다. 물이 표면 위로만 흐르는 것이 아니라, 포장재의 틈을 지나가는 모습입니다."
+  },
+  "translation-3": {
+    "language": "ko",
+    "text": "물은 이 특수 포장재를 통과할 수 있습니다."
+  },
+  "recall-3": {
+    "language": "ko",
+    "text": "물이 이 특수 포장재를 통과할 수 있다고 말해 보세요."
+  },
+  "phrase-4": {
+    "language": "en",
+    "text": "more than"
+  },
+  "example-4": {
+    "language": "en",
+    "text": "This park does more than look beautiful."
+  },
+  "explain-4": {
+    "language": "ko",
+    "text": "네 번째 표현은 무엇 이상의, 또는 무엇뿐만 아니라라는 뜻입니다. 예문에서는 공원이 보기 좋은 것 외에도 다른 역할을 한다고 말합니다."
+  },
+  "translation-4": {
+    "language": "ko",
+    "text": "이 공원은 아름답게 보이는 것 이상의 역할을 합니다."
+  },
+  "recall-4": {
+    "language": "ko",
+    "text": "이 공원은 아름답게 보이는 것 이상의 일을 한다고 말해 보세요."
+  },
+  "phrase-5": {
+    "language": "en",
+    "text": "make more room for"
+  },
+  "example-5": {
+    "language": "en",
+    "text": "We can make more room for trees."
+  },
+  "explain-5": {
+    "language": "ko",
+    "text": "마지막 표현은 무엇을 위한 공간을 더 마련하다라는 뜻입니다. 이 문맥에서 공간은 실제 장소를 가리킵니다."
+  },
+  "translation-5": {
+    "language": "ko",
+    "text": "우리는 나무를 위한 공간을 더 마련할 수 있습니다."
+  },
+  "recall-5": {
+    "language": "ko",
+    "text": "우리는 나무를 위한 공간을 더 마련할 수 있다고 말해 보세요."
+  }
+}

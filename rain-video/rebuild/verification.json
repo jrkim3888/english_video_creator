@@ -1,0 +1,37 @@
+{
+  "duration_seconds": 1160.0,
+  "sentence_count": 35,
+  "phrase_count": 5,
+  "illustration_count": 7,
+  "first_and_last_listen_complete": true,
+  "first_listen_body_hidden": true,
+  "focus_shadow_repetitions": 2,
+  "audio_clip_count": 108,
+  "minimum_clip_rms": 0.07552309148655693,
+  "full_decode": "passed",
+  "streams": [
+    {
+      "codec_name": "h264",
+      "codec_type": "video",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "codec_name": "aac",
+      "codec_type": "audio",
+      "sample_rate": "22050"
+    }
+  ],
+  "paid_tts_api_calls": 0,
+  "human_full_listening_review": false,
+  "independent_source_fact_check": false,
+  "representative_encoded_frames_checked": [
+    "shadowing",
+    "countdown",
+    "ending"
+  ],
+  "thumbnail_mobile_size_checked": [
+    384,
+    216
+  ]
+}

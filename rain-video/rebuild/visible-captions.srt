@@ -1,0 +1,934 @@
+1
+00:02:14,556 --> 00:02:23,890
+Understand the story.
+한 문장씩 뜻을 확인하고 문단의 핵심을 정리해 보세요.
+
+2
+00:02:23,890 --> 00:02:26,241
+What if a city could drink the rain?
+도시가 빗물을 마실 수 있다면 어떨까요?
+
+3
+00:02:26,241 --> 00:02:29,446
+What if a city could drink the rain?
+도시가 빗물을 마실 수 있다면 어떨까요?
+
+4
+00:02:29,446 --> 00:02:33,784
+During a storm, water runs across roads and sidewalks.
+폭풍우가 치는 동안 물은 도로와 인도를 따라 흘러갑니다.
+
+5
+00:02:33,784 --> 00:02:38,145
+During a storm, water runs across roads and sidewalks.
+폭풍우가 치는 동안 물은 도로와 인도를 따라 흘러갑니다.
+
+6
+00:02:38,145 --> 00:02:42,018
+It carries dirt and oil toward street drains.
+그 물은 흙과 기름을 실어 빗물 배수구 쪽으로 이동합니다.
+
+7
+00:02:42,018 --> 00:02:46,723
+It carries dirt and oil toward street drains.
+그 물은 흙과 기름을 실어 빗물 배수구 쪽으로 이동합니다.
+
+8
+00:02:46,723 --> 00:02:50,620
+When too much water comes at once, streets may flood.
+한꺼번에 너무 많은 물이 몰리면 거리가 침수될 수 있습니다.
+
+9
+00:02:50,620 --> 00:02:55,623
+When too much water comes at once, streets may flood.
+한꺼번에 너무 많은 물이 몰리면 거리가 침수될 수 있습니다.
+
+10
+00:02:55,623 --> 00:02:58,335
+But there is another way to handle rain.
+하지만 빗물을 처리하는 다른 방법도 있습니다.
+
+11
+00:02:58,335 --> 00:03:02,055
+But there is another way to handle rain.
+하지만 빗물을 처리하는 다른 방법도 있습니다.
+
+12
+00:03:02,055 --> 00:03:15,264
+Paragraph 1 · Key idea
+첫 문장의 도시는 실제로 물을 마시는 것이 아닙니다.
+
+13
+00:03:15,264 --> 00:03:17,987
+Hard surfaces are part of the problem.
+딱딱한 지표면이 문제의 한 원인입니다.
+
+14
+00:03:17,987 --> 00:03:21,500
+Hard surfaces are part of the problem.
+딱딱한 지표면이 문제의 한 원인입니다.
+
+15
+00:03:21,500 --> 00:03:24,910
+In a forest, soil and plants take in rain.
+숲에서는 흙과 식물이 빗물을 흡수합니다.
+
+16
+00:03:24,910 --> 00:03:28,530
+In a forest, soil and plants take in rain.
+숲에서는 흙과 식물이 빗물을 흡수합니다.
+
+17
+00:03:28,530 --> 00:03:33,241
+In a city, roofs and roads stop much of the water from entering the ground.
+도시에서는 지붕과 도로 때문에 많은 빗물이 땅속으로 스며들지 못합니다.
+
+18
+00:03:33,241 --> 00:03:38,954
+In a city, roofs and roads stop much of the water from entering the ground.
+도시에서는 지붕과 도로 때문에 많은 빗물이 땅속으로 스며들지 못합니다.
+
+19
+00:03:38,954 --> 00:03:42,405
+So water moves faster into drains and rivers.
+그래서 물은 배수구와 강으로 더 빠르게 흘러갑니다.
+
+20
+00:03:42,405 --> 00:03:46,287
+So water moves faster into drains and rivers.
+그래서 물은 배수구와 강으로 더 빠르게 흘러갑니다.
+
+21
+00:03:46,287 --> 00:03:48,824
+This moving water is called runoff.
+이렇게 지표면을 따라 흐르는 물을 유출수라고 합니다.
+
+22
+00:03:48,824 --> 00:03:53,102
+This moving water is called runoff.
+이렇게 지표면을 따라 흐르는 물을 유출수라고 합니다.
+
+23
+00:03:53,102 --> 00:04:05,982
+Paragraph 2 · Key idea
+이 문단은 숲과 도시를 비교합니다.
+
+24
+00:04:05,982 --> 00:04:08,747
+One answer is green infrastructure.
+한 가지 해결책은 그린 인프라입니다.
+
+25
+00:04:08,747 --> 00:04:11,920
+One answer is green infrastructure.
+한 가지 해결책은 그린 인프라입니다.
+
+26
+00:04:11,920 --> 00:04:16,309
+This means using plants and special surfaces to manage rain.
+이는 식물과 특수한 지표면을 활용해 빗물을 관리한다는 뜻입니다.
+
+27
+00:04:16,309 --> 00:04:21,656
+This means using plants and special surfaces to manage rain.
+이는 식물과 특수한 지표면을 활용해 빗물을 관리한다는 뜻입니다.
+
+28
+00:04:21,656 --> 00:04:24,525
+A rain garden may look like a flower bed.
+빗물 정원은 일반 화단처럼 보일 수 있습니다.
+
+29
+00:04:24,525 --> 00:04:28,209
+A rain garden may look like a flower bed.
+빗물 정원은 일반 화단처럼 보일 수 있습니다.
+
+30
+00:04:28,209 --> 00:04:30,773
+But it sits lower than the ground around it.
+하지만 주변 땅보다 낮게 만들어져 있습니다.
+
+31
+00:04:30,773 --> 00:04:34,513
+But it sits lower than the ground around it.
+하지만 주변 땅보다 낮게 만들어져 있습니다.
+
+32
+00:04:34,513 --> 00:04:37,867
+It collects water and lets some of it enter the soil.
+이곳은 물을 모으고 그중 일부가 흙으로 스며들게 합니다.
+
+33
+00:04:37,867 --> 00:04:42,488
+It collects water and lets some of it enter the soil.
+이곳은 물을 모으고 그중 일부가 흙으로 스며들게 합니다.
+
+34
+00:04:42,488 --> 00:04:54,404
+Paragraph 3 · Key idea
+빗물 정원은 주변 지면보다 낮게 만들어집니다.
+
+35
+00:04:54,404 --> 00:04:58,092
+Some roads and parking areas use special pavement.
+일부 도로와 주차장에는 특수한 포장재를 사용합니다.
+
+36
+00:04:58,092 --> 00:05:02,632
+Some roads and parking areas use special pavement.
+일부 도로와 주차장에는 특수한 포장재를 사용합니다.
+
+37
+00:05:02,632 --> 00:05:05,431
+This pavement lets water pass through.
+이 포장재는 물이 통과하도록 해 줍니다.
+
+38
+00:05:05,431 --> 00:05:08,804
+This pavement lets water pass through.
+이 포장재는 물이 통과하도록 해 줍니다.
+
+39
+00:05:08,804 --> 00:05:12,537
+Stone under the surface can hold rain for a short time.
+표면 아래의 자갈층은 빗물을 잠시 저장할 수 있습니다.
+
+40
+00:05:12,537 --> 00:05:16,763
+Stone under the surface can hold rain for a short time.
+표면 아래의 자갈층은 빗물을 잠시 저장할 수 있습니다.
+
+41
+00:05:16,763 --> 00:05:21,373
+Some water enters the ground, and extra water may go into pipes.
+일부 물은 땅속으로 스며들고, 남는 물은 배관으로 흘러갈 수도 있습니다.
+
+42
+00:05:21,373 --> 00:05:26,886
+Some water enters the ground, and extra water may go into pipes.
+일부 물은 땅속으로 스며들고, 남는 물은 배관으로 흘러갈 수도 있습니다.
+
+43
+00:05:26,886 --> 00:05:30,427
+Plants on roofs can also catch and hold rain.
+지붕 위의 식물도 빗물을 받아 머금는 데 도움이 됩니다.
+
+44
+00:05:30,427 --> 00:05:35,033
+Plants on roofs can also catch and hold rain.
+지붕 위의 식물도 빗물을 받아 머금는 데 도움이 됩니다.
+
+45
+00:05:35,033 --> 00:05:47,818
+Paragraph 4 · Key idea
+투수성 포장 아래의 자갈은 물을 잠시 머금습니다.
+
+46
+00:05:47,818 --> 00:05:51,899
+These changes can do more than reduce water on streets.
+이러한 변화는 거리의 물을 줄이는 것 이상의 일을 할 수 있습니다.
+
+47
+00:05:51,899 --> 00:05:56,794
+These changes can do more than reduce water on streets.
+이러한 변화는 거리의 물을 줄이는 것 이상의 일을 할 수 있습니다.
+
+48
+00:05:56,794 --> 00:06:00,589
+Rain can carry oil, trash, and other pollution.
+빗물은 기름, 쓰레기, 그 밖의 오염물질을 실어 나를 수 있습니다.
+
+49
+00:06:00,589 --> 00:06:05,794
+Rain can carry oil, trash, and other pollution.
+빗물은 기름, 쓰레기, 그 밖의 오염물질을 실어 나를 수 있습니다.
+
+50
+00:06:05,794 --> 00:06:08,938
+Gardens and soil can help filter some of it.
+정원과 흙은 그중 일부를 걸러 내는 데 도움이 됩니다.
+
+51
+00:06:08,938 --> 00:06:13,117
+Gardens and soil can help filter some of it.
+정원과 흙은 그중 일부를 걸러 내는 데 도움이 됩니다.
+
+52
+00:06:13,117 --> 00:06:16,101
+Trees can also make city streets cooler.
+나무는 도시의 거리를 더 시원하게 만들 수도 있습니다.
+
+53
+00:06:16,101 --> 00:06:20,624
+Trees can also make city streets cooler.
+나무는 도시의 거리를 더 시원하게 만들 수도 있습니다.
+
+54
+00:06:20,624 --> 00:06:23,876
+A small green space can have several jobs.
+작은 녹지 공간 하나가 여러 역할을 할 수 있는 것입니다.
+
+55
+00:06:23,876 --> 00:06:28,652
+A small green space can have several jobs.
+작은 녹지 공간 하나가 여러 역할을 할 수 있는 것입니다.
+
+56
+00:06:28,652 --> 00:06:41,651
+Paragraph 5 · Key idea
+녹지 공간은 빗물의 양과 흐름을 다루는 것 외에도 여러 역할을 할 수 있습니다.
+
+57
+00:06:41,651 --> 00:06:44,931
+But green spaces cannot stop every flood.
+하지만 녹지 공간이 모든 홍수를 막을 수는 없습니다.
+
+58
+00:06:44,931 --> 00:06:49,406
+But green spaces cannot stop every flood.
+하지만 녹지 공간이 모든 홍수를 막을 수는 없습니다.
+
+59
+00:06:49,406 --> 00:06:53,365
+During a very strong storm, too much rain may fall.
+매우 강한 폭풍우가 오면 지나치게 많은 비가 내릴 수 있습니다.
+
+60
+00:06:53,365 --> 00:06:58,243
+During a very strong storm, too much rain may fall.
+매우 강한 폭풍우가 오면 지나치게 많은 비가 내릴 수 있습니다.
+
+61
+00:06:58,243 --> 00:07:01,651
+Good design and regular care are important.
+좋은 설계와 정기적인 관리가 중요합니다.
+
+62
+00:07:01,651 --> 00:07:05,053
+Good design and regular care are important.
+좋은 설계와 정기적인 관리가 중요합니다.
+
+63
+00:07:05,053 --> 00:07:08,704
+Cities still need drains and pipes for extra water.
+도시에는 여분의 물을 흘려보낼 배수구와 배관도 여전히 필요합니다.
+
+64
+00:07:08,704 --> 00:07:13,946
+Cities still need drains and pipes for extra water.
+도시에는 여분의 물을 흘려보낼 배수구와 배관도 여전히 필요합니다.
+
+65
+00:07:13,946 --> 00:07:17,386
+Experts study how these systems can work together.
+전문가들은 이런 시설들이 어떻게 함께 작동할 수 있는지 연구합니다.
+
+66
+00:07:17,386 --> 00:07:22,450
+Experts study how these systems can work together.
+전문가들은 이런 시설들이 어떻게 함께 작동할 수 있는지 연구합니다.
+
+67
+00:07:22,450 --> 00:07:35,721
+Paragraph 6 · Key idea
+이 문단은 해결책의 한계를 설명합니다.
+
+68
+00:07:35,721 --> 00:07:39,315
+Next time it rains, look around your neighborhood.
+다음에 비가 오면 동네를 한번 둘러보세요.
+
+69
+00:07:39,315 --> 00:07:42,984
+Next time it rains, look around your neighborhood.
+다음에 비가 오면 동네를 한번 둘러보세요.
+
+70
+00:07:42,984 --> 00:07:47,947
+You may see a garden beside a road or special pavement in a parking lot.
+도로 옆의 정원이나 주차장의 특수 포장재를 발견할 수도 있습니다.
+
+71
+00:07:47,947 --> 00:07:52,891
+You may see a garden beside a road or special pavement in a parking lot.
+도로 옆의 정원이나 주차장의 특수 포장재를 발견할 수도 있습니다.
+
+72
+00:07:52,891 --> 00:07:55,912
+It may be helping water move more slowly.
+그것이 물의 흐름을 늦추는 역할을 하고 있을지 모릅니다.
+
+73
+00:07:55,912 --> 00:08:00,805
+It may be helping water move more slowly.
+그것이 물의 흐름을 늦추는 역할을 하고 있을지 모릅니다.
+
+74
+00:08:00,805 --> 00:08:03,307
+A city cannot control the rain.
+도시는 비 자체를 통제할 수는 없습니다.
+
+75
+00:08:03,307 --> 00:08:06,402
+A city cannot control the rain.
+도시는 비 자체를 통제할 수는 없습니다.
+
+76
+00:08:06,402 --> 00:08:08,827
+But it can make more room for it.
+하지만 빗물이 머물 공간을 더 많이 만들 수는 있습니다.
+
+77
+00:08:08,827 --> 00:08:13,418
+But it can make more room for it.
+하지만 빗물이 머물 공간을 더 많이 만들 수는 있습니다.
+
+78
+00:08:13,418 --> 00:08:27,504
+Paragraph 7 · Key idea
+마지막 문장은 앞에서 나온 도시를 가리킵니다.
+
+79
+00:08:27,504 --> 00:08:39,449
+Listen. Then speak.
+전체 문장을 연습한 뒤 학습노트의 핵심 문장을 복습합니다.
+
+80
+00:08:39,449 --> 00:08:41,800
+What if a city could drink the rain?
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+81
+00:08:45,800 --> 00:08:50,137
+During a storm, water runs across roads and sidewalks.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+82
+00:08:56,137 --> 00:09:00,010
+It carries dirt and oil toward street drains.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+83
+00:09:05,010 --> 00:09:08,908
+When too much water comes at once, streets may flood.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+84
+00:09:13,908 --> 00:09:16,619
+But there is another way to handle rain.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+85
+00:09:20,619 --> 00:09:23,342
+Hard surfaces are part of the problem.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+86
+00:09:27,342 --> 00:09:30,752
+In a forest, soil and plants take in rain.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+87
+00:09:34,752 --> 00:09:39,463
+In a city, roofs and roads stop much of the water from entering the ground.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+88
+00:09:45,463 --> 00:09:48,914
+So water moves faster into drains and rivers.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+89
+00:09:53,914 --> 00:09:56,451
+This moving water is called runoff.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+90
+00:10:00,451 --> 00:10:03,216
+One answer is green infrastructure.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+91
+00:10:07,216 --> 00:10:11,605
+This means using plants and special surfaces to manage rain.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+92
+00:10:17,605 --> 00:10:20,473
+A rain garden may look like a flower bed.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+93
+00:10:24,473 --> 00:10:27,037
+But it sits lower than the ground around it.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+94
+00:10:31,037 --> 00:10:34,391
+It collects water and lets some of it enter the soil.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+95
+00:10:38,391 --> 00:10:42,079
+Some roads and parking areas use special pavement.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+96
+00:10:47,079 --> 00:10:49,878
+This pavement lets water pass through.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+97
+00:10:53,878 --> 00:10:57,611
+Stone under the surface can hold rain for a short time.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+98
+00:11:02,611 --> 00:11:07,222
+Some water enters the ground, and extra water may go into pipes.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+99
+00:11:13,222 --> 00:11:16,763
+Plants on roofs can also catch and hold rain.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+100
+00:11:21,763 --> 00:11:25,844
+These changes can do more than reduce water on streets.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+101
+00:11:30,844 --> 00:11:34,639
+Rain can carry oil, trash, and other pollution.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+102
+00:11:39,639 --> 00:11:42,783
+Gardens and soil can help filter some of it.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+103
+00:11:46,783 --> 00:11:49,767
+Trees can also make city streets cooler.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+104
+00:11:53,767 --> 00:11:57,018
+A small green space can have several jobs.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+105
+00:12:01,018 --> 00:12:04,299
+But green spaces cannot stop every flood.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+106
+00:12:08,299 --> 00:12:12,257
+During a very strong storm, too much rain may fall.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+107
+00:12:17,257 --> 00:12:20,665
+Good design and regular care are important.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+108
+00:12:24,665 --> 00:12:28,317
+Cities still need drains and pipes for extra water.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+109
+00:12:33,317 --> 00:12:36,757
+Experts study how these systems can work together.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+110
+00:12:40,757 --> 00:12:44,351
+Next time it rains, look around your neighborhood.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+111
+00:12:49,351 --> 00:12:54,314
+You may see a garden beside a road or special pavement in a parking lot.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+112
+00:13:00,314 --> 00:13:03,336
+It may be helping water move more slowly.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+113
+00:13:07,336 --> 00:13:09,839
+A city cannot control the rain.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+114
+00:13:13,839 --> 00:13:16,264
+But it can make more room for it.
+문장을 듣고 남은 시간 동안 소리 내어 따라 하세요.
+
+115
+00:13:20,264 --> 00:13:22,616
+What if a city could drink the rain?
+도시가 빗물을 마실 수 있다면 어떨까요?
+
+116
+00:13:26,616 --> 00:13:30,026
+In a forest, soil and plants take in rain.
+숲에서는 흙과 식물이 빗물을 흡수합니다.
+
+117
+00:13:34,026 --> 00:13:36,825
+This pavement lets water pass through.
+이 포장재는 물이 통과하도록 해 줍니다.
+
+118
+00:13:40,825 --> 00:13:44,105
+But green spaces cannot stop every flood.
+하지만 녹지 공간이 모든 홍수를 막을 수는 없습니다.
+
+119
+00:13:48,105 --> 00:13:50,531
+But it can make more room for it.
+하지만 빗물이 머물 공간을 더 많이 만들 수는 있습니다.
+
+120
+00:13:54,531 --> 00:14:03,098
+Five useful expressions.
+뜻과 예문을 확인하고, 뜻을 보고 영어로 말해 보세요.
+
+121
+00:14:03,098 --> 00:14:04,389
+handle rain
+빗물을 처리하다
+
+122
+00:14:04,389 --> 00:14:12,002
+handle rain
+빗물을 처리하다
+
+123
+00:14:12,002 --> 00:14:16,118
+We need a better way to handle rain.
+우리는 빗물을 처리할 더 나은 방법이 필요합니다.
+
+124
+00:14:16,118 --> 00:14:18,795
+We need a better way to handle rain.
+우리는 빗물을 처리할 더 나은 방법이 필요합니다.
+
+125
+00:14:22,795 --> 00:14:27,541
+Say it in English.
+우리는 빗물을 처리할 더 나은 방법이 필요합니다.
+
+126
+00:14:32,541 --> 00:14:35,218
+We need a better way to handle rain.
+우리는 빗물을 처리할 더 나은 방법이 필요합니다.
+
+127
+00:14:35,218 --> 00:14:36,304
+take in
+흡수하다 · 받아들이다
+
+128
+00:14:36,304 --> 00:14:45,954
+take in
+흡수하다 · 받아들이다
+
+129
+00:14:45,954 --> 00:14:49,383
+Healthy soil can take in rainwater.
+건강한 흙은 빗물을 흡수할 수 있습니다.
+
+130
+00:14:49,383 --> 00:14:52,115
+Healthy soil can take in rainwater.
+건강한 흙은 빗물을 흡수할 수 있습니다.
+
+131
+00:14:56,115 --> 00:15:00,352
+Say it in English.
+건강한 흙은 빗물을 흡수할 수 있습니다.
+
+132
+00:15:05,352 --> 00:15:08,085
+Healthy soil can take in rainwater.
+건강한 흙은 빗물을 흡수할 수 있습니다.
+
+133
+00:15:08,085 --> 00:15:09,376
+pass through
+통과하다
+
+134
+00:15:09,376 --> 00:15:18,646
+pass through
+통과하다
+
+135
+00:15:18,646 --> 00:15:21,984
+Water can pass through this special pavement.
+물은 이 특수 포장재를 통과할 수 있습니다.
+
+136
+00:15:21,984 --> 00:15:24,939
+Water can pass through this special pavement.
+물은 이 특수 포장재를 통과할 수 있습니다.
+
+137
+00:15:28,939 --> 00:15:33,150
+Say it in English.
+물은 이 특수 포장재를 통과할 수 있습니다.
+
+138
+00:15:38,150 --> 00:15:41,105
+Water can pass through this special pavement.
+물은 이 특수 포장재를 통과할 수 있습니다.
+
+139
+00:15:41,105 --> 00:15:42,199
+more than
+~이상의 · ~뿐만 아니라
+
+140
+00:15:42,199 --> 00:15:52,345
+more than
+~이상의 · ~뿐만 아니라
+
+141
+00:15:52,345 --> 00:15:56,770
+This park does more than look beautiful.
+이 공원은 아름답게 보이는 것 이상의 역할을 합니다.
+
+142
+00:15:56,770 --> 00:15:59,801
+This park does more than look beautiful.
+이 공원은 아름답게 보이는 것 이상의 역할을 합니다.
+
+143
+00:16:03,801 --> 00:16:08,786
+Say it in English.
+이 공원은 아름답게 보이는 것 이상의 역할을 합니다.
+
+144
+00:16:13,786 --> 00:16:16,817
+This park does more than look beautiful.
+이 공원은 아름답게 보이는 것 이상의 역할을 합니다.
+
+145
+00:16:16,817 --> 00:16:18,439
+make more room for
+~을 위한 공간을 더 마련하다
+
+146
+00:16:18,439 --> 00:16:27,625
+make more room for
+~을 위한 공간을 더 마련하다
+
+147
+00:16:27,625 --> 00:16:31,803
+We can make more room for trees.
+우리는 나무를 위한 공간을 더 마련할 수 있습니다.
+
+148
+00:16:31,803 --> 00:16:34,293
+We can make more room for trees.
+우리는 나무를 위한 공간을 더 마련할 수 있습니다.
+
+149
+00:16:38,293 --> 00:16:43,372
+Say it in English.
+우리는 나무를 위한 공간을 더 마련할 수 있습니다.
+
+150
+00:16:48,372 --> 00:16:50,862
+We can make more room for trees.
+우리는 나무를 위한 공간을 더 마련할 수 있습니다.
+
+151
+00:16:50,862 --> 00:17:02,074
+Listen to the story again.
+영어 자막을 보며 처음보다 더 잘 들리는 표현을 찾아보세요.
+
+152
+00:17:02,074 --> 00:17:04,425
+What if a city could drink the rain?
+
+
+153
+00:17:04,425 --> 00:17:08,762
+During a storm, water runs across roads and sidewalks.
+
+
+154
+00:17:08,762 --> 00:17:12,635
+It carries dirt and oil toward street drains.
+
+
+155
+00:17:12,635 --> 00:17:16,532
+When too much water comes at once, streets may flood.
+
+
+156
+00:17:16,532 --> 00:17:19,244
+But there is another way to handle rain.
+
+
+157
+00:17:19,244 --> 00:17:21,967
+Hard surfaces are part of the problem.
+
+
+158
+00:17:21,967 --> 00:17:25,377
+In a forest, soil and plants take in rain.
+
+
+159
+00:17:25,377 --> 00:17:30,088
+In a city, roofs and roads stop much of the water from entering the ground.
+
+
+160
+00:17:30,088 --> 00:17:33,539
+So water moves faster into drains and rivers.
+
+
+161
+00:17:33,539 --> 00:17:36,076
+This moving water is called runoff.
+
+
+162
+00:17:36,076 --> 00:17:38,841
+One answer is green infrastructure.
+
+
+163
+00:17:38,841 --> 00:17:43,229
+This means using plants and special surfaces to manage rain.
+
+
+164
+00:17:43,229 --> 00:17:46,098
+A rain garden may look like a flower bed.
+
+
+165
+00:17:46,098 --> 00:17:48,662
+But it sits lower than the ground around it.
+
+
+166
+00:17:48,662 --> 00:17:52,016
+It collects water and lets some of it enter the soil.
+
+
+167
+00:17:52,016 --> 00:17:55,704
+Some roads and parking areas use special pavement.
+
+
+168
+00:17:55,704 --> 00:17:58,503
+This pavement lets water pass through.
+
+
+169
+00:17:58,503 --> 00:18:02,236
+Stone under the surface can hold rain for a short time.
+
+
+170
+00:18:02,236 --> 00:18:06,847
+Some water enters the ground, and extra water may go into pipes.
+
+
+171
+00:18:06,847 --> 00:18:10,388
+Plants on roofs can also catch and hold rain.
+
+
+172
+00:18:10,388 --> 00:18:14,469
+These changes can do more than reduce water on streets.
+
+
+173
+00:18:14,469 --> 00:18:18,264
+Rain can carry oil, trash, and other pollution.
+
+
+174
+00:18:18,264 --> 00:18:21,408
+Gardens and soil can help filter some of it.
+
+
+175
+00:18:21,408 --> 00:18:24,392
+Trees can also make city streets cooler.
+
+
+176
+00:18:24,392 --> 00:18:27,643
+A small green space can have several jobs.
+
+
+177
+00:18:27,643 --> 00:18:30,923
+But green spaces cannot stop every flood.
+
+
+178
+00:18:30,923 --> 00:18:34,882
+During a very strong storm, too much rain may fall.
+
+
+179
+00:18:34,882 --> 00:18:38,290
+Good design and regular care are important.
+
+
+180
+00:18:38,290 --> 00:18:41,942
+Cities still need drains and pipes for extra water.
+
+
+181
+00:18:41,942 --> 00:18:45,382
+Experts study how these systems can work together.
+
+
+182
+00:18:45,382 --> 00:18:48,976
+Next time it rains, look around your neighborhood.
+
+
+183
+00:18:48,976 --> 00:18:53,939
+You may see a garden beside a road or special pavement in a parking lot.
+
+
+184
+00:18:53,939 --> 00:18:56,961
+It may be helping water move more slowly.
+
+
+185
+00:18:56,961 --> 00:18:59,463
+A city cannot control the rain.
+
+
+186
+00:18:59,463 --> 00:19:01,889
+But it can make more room for it.
+
+
+187
+00:19:01,889 --> 00:19:19,830
+Make more room for rain.
+오늘의 표현을 소리 내어 말하며 복습해 보세요.

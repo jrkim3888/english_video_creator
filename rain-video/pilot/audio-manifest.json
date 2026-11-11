@@ -1,0 +1,162 @@
+{
+  "en1": {
+    "text": "What if a city could drink the rain?",
+    "language": "en",
+    "duration": 2.10140589569161,
+    "sample_rate": 22050,
+    "model": "vits-piper-en_US-lessac-medium",
+    "speed": 0.72
+  },
+  "en2": {
+    "text": "During a storm, water runs across roads and sidewalks.",
+    "language": "en",
+    "duration": 4.087074829931972,
+    "sample_rate": 22050,
+    "model": "vits-piper-en_US-lessac-medium",
+    "speed": 0.72
+  },
+  "en3": {
+    "text": "It carries dirt and oil toward street drains.",
+    "language": "en",
+    "duration": 3.622312925170068,
+    "sample_rate": 22050,
+    "model": "vits-piper-en_US-lessac-medium",
+    "speed": 0.72
+  },
+  "en4": {
+    "text": "When too much water comes at once, streets may flood.",
+    "language": "en",
+    "duration": 3.6478004535147392,
+    "sample_rate": 22050,
+    "model": "vits-piper-en_US-lessac-medium",
+    "speed": 0.72
+  },
+  "en5": {
+    "text": "But there is another way to handle rain.",
+    "language": "en",
+    "duration": 2.461315192743764,
+    "sample_rate": 22050,
+    "model": "vits-piper-en_US-lessac-medium",
+    "speed": 0.72
+  },
+  "en6": {
+    "text": "In a forest, soil and plants take in rain.",
+    "language": "en",
+    "duration": 3.160090702947846,
+    "sample_rate": 22050,
+    "model": "vits-piper-en_US-lessac-medium",
+    "speed": 0.72
+  },
+  "phrase": {
+    "text": "take in",
+    "language": "en",
+    "duration": 0.8359183673469388,
+    "sample_rate": 22050,
+    "model": "vits-piper-en_US-lessac-medium",
+    "speed": 0.72
+  },
+  "example": {
+    "text": "Healthy soil can take in rainwater.",
+    "language": "en",
+    "duration": 2.482222222222222,
+    "sample_rate": 22050,
+    "model": "vits-piper-en_US-lessac-medium",
+    "speed": 0.72
+  },
+  "limit_en": {
+    "text": "But green spaces cannot stop every flood.",
+    "language": "en",
+    "duration": 3.030204081632653,
+    "sample_rate": 22050,
+    "model": "vits-piper-en_US-lessac-medium",
+    "speed": 0.72
+  },
+  "intro": {
+    "text": "오늘은 도시가 빗물을 어떻게 받아들이는지 알아보겠습니다. 먼저 영어 자막 없이 이야기의 흐름을 들어 보세요.",
+    "language": "ko",
+    "duration": 7.091791383219955,
+    "sample_rate": 22050,
+    "model": "vits-mimic3-ko_KO-kss_low",
+    "speed": 0.82
+  },
+  "understand": {
+    "text": "이제 문장의 뜻을 확인해 보세요. 도시가 빗물을 마신다는 말은 빗물을 받아들이고 흡수하는 모습을 비유한 표현입니다.",
+    "language": "ko",
+    "duration": 8.811111111111112,
+    "sample_rate": 22050,
+    "model": "vits-mimic3-ko_KO-kss_low",
+    "speed": 0.82
+  },
+  "ko1": {
+    "text": "도시가 빗물을 마실 수 있다면 어떨까요?",
+    "language": "ko",
+    "duration": 2.955328798185941,
+    "sample_rate": 22050,
+    "model": "vits-mimic3-ko_KO-kss_low",
+    "speed": 0.82
+  },
+  "ko2": {
+    "text": "폭풍우가 치는 동안 물은 도로와 인도를 따라 흘러갑니다.",
+    "language": "ko",
+    "duration": 4.111927437641723,
+    "sample_rate": 22050,
+    "model": "vits-mimic3-ko_KO-kss_low",
+    "speed": 0.82
+  },
+  "shadow": {
+    "text": "이번에는 따라 말하기입니다. 문장을 듣고, 말할 차례에 소리 내어 두 번 따라 해 보세요.",
+    "language": "ko",
+    "duration": 6.632562358276644,
+    "sample_rate": 22050,
+    "model": "vits-mimic3-ko_KO-kss_low",
+    "speed": 0.82
+  },
+  "ko6": {
+    "text": "숲에서는 흙과 식물이 빗물을 흡수합니다.",
+    "language": "ko",
+    "duration": 3.370702947845805,
+    "sample_rate": 22050,
+    "model": "vits-mimic3-ko_KO-kss_low",
+    "speed": 0.82
+  },
+  "expressions": {
+    "text": "핵심 표현을 연습해 보겠습니다. 이 표현은 흡수하다, 또는 받아들이다라는 뜻입니다.",
+    "language": "ko",
+    "duration": 6.50172335600907,
+    "sample_rate": 22050,
+    "model": "vits-mimic3-ko_KO-kss_low",
+    "speed": 0.82
+  },
+  "example_ko": {
+    "text": "건강한 흙은 빗물을 흡수할 수 있습니다. 예문을 듣고 따라 말해 보세요.",
+    "language": "ko",
+    "duration": 5.656145124716553,
+    "sample_rate": 22050,
+    "model": "vits-mimic3-ko_KO-kss_low",
+    "speed": 0.82
+  },
+  "limit": {
+    "text": "녹지 공간이 모든 홍수를 막는 것은 아닙니다. 도시에는 넘치는 물을 흘려보낼 배수구와 배관도 필요합니다.",
+    "language": "ko",
+    "duration": 8.286485260770975,
+    "sample_rate": 22050,
+    "model": "vits-mimic3-ko_KO-kss_low",
+    "speed": 0.82
+  },
+  "review": {
+    "text": "처음 들었던 문단을 다시 들어 보겠습니다. 이번에는 영어 자막을 보며 내용을 확인해 보세요.",
+    "language": "ko",
+    "duration": 6.450657596371882,
+    "sample_rate": 22050,
+    "model": "vits-mimic3-ko_KO-kss_low",
+    "speed": 0.82
+  },
+  "outro": {
+    "text": "오늘은 빗물의 흐름과 흡수에 관한 표현을 연습했습니다. 주변의 녹지 공간을 떠올리며 복습해 보세요.",
+    "language": "ko",
+    "duration": 7.763718820861678,
+    "sample_rate": 22050,
+    "model": "vits-mimic3-ko_KO-kss_low",
+    "speed": 0.82
+  }
+}

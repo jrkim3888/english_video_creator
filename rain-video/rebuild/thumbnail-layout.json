@@ -1,0 +1,15 @@
+{
+  "background": "images/rain-garden.png",
+  "size": [
+    1280,
+    720
+  ],
+  "title": [
+    "DRINK",
+    "THE RAIN"
+  ],
+  "subtitle": "빗물을 받아들이는 도시",
+  "level": "L2 / A2",
+  "font": "NanumGothic-Bold.ttf",
+  "style": "현대적 편집 일러스트"
+}
