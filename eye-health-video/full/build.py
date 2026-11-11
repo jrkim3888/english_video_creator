@@ -9,7 +9,7 @@ root=Path(__file__).resolve().parent
 content=json.loads((root/'content.json').read_text()); rows=content['sentences']; phrases=content['phrases']
 FF=imageio_ffmpeg.get_ffmpeg_exe(); audio=root/'audio'; frames=root/'frames'; frames.mkdir(exist_ok=True)
 rate=44100
-regular='/System/Library/Fonts/Supplemental/Arial.ttf'; bold='/System/Library/Fonts/Supplemental/Arial Bold.ttf'; korean='/System/Library/Fonts/AppleSDGothicNeo.ttc'
+regular=root/'fonts'/'NanumGothic-Regular.ttf'; bold=root/'fonts'/'NanumGothic-Bold.ttf'; korean=regular
 font=lambda path,size:ImageFont.truetype(path,size)
 # Brief meanings for the learning cards; narration contains the full explanations.
 meanings=[x['ko'].split('。')[0].split('. ')[0] for x in rows]
