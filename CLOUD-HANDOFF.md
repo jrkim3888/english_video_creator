@@ -39,6 +39,8 @@ python eye-health-video/full/build.py
 
 ## Google Cloud TTS 연결 계획
 
+API 사용량 최소화 기준은 [제작 계획의 Google Cloud TTS 가이드](english-study-video-plan.md#google-cloud-tts-api-사용량-최소화-가이드)를 따른다. 고유 발화 캐시, 변경 문장만 재합성, 반복 구간 재사용, 호출 전 사용량 상한 검사와 제한 재시도를 구현한다. 이 지침은 아직 Google API 연동 코드로 구현되지 않았다.
+
 1. Google Cloud 프로젝트에 결제 계정을 연결하고 Cloud Text-to-Speech API를 활성화합니다. 예산 알림과 모델별 무료 사용량·요금을 확인합니다.
 2. 로컬 개발에는 Google Cloud CLI의 Application Default Credentials(ADC)를 사용할 수 있습니다. 클라우드 작업 환경에서는 해당 환경에 맞는 단기 인증 또는 비밀 관리 방식을 설정합니다. 사용자 로컬 ADC 파일을 저장소에 복사하지 않습니다.
 3. 원고를 영어·한국어 문장으로 분리하고 적합한 음성을 사용합니다. 동일한 텍스트와 설정은 생성 파일을 재사용해 호출을 줄입니다. 샘플 청취 후 본편을 생성합니다.
