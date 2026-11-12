@@ -8,8 +8,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 4613,
-      "sha256": "a0453586d30accfbf3ea129b4c703d0b78edbfa604c234318c671e965a281493"
+      "bytes": 5265,
+      "sha256": "de557450ea536c3c3afa2d1fe573773c36df35309ef7295e67f36251feabc5e3"
+    },
+    {
+      "path": "pilot/audio-generation.log",
+      "bytes": 355,
+      "sha256": "a7041c8e9b53c6edf3ff7a1dd65b42611047d60b05be60066f03ffe6b88276c0"
+    },
+    {
+      "path": "pilot/audio-manifest.json",
+      "bytes": 5177,
+      "sha256": "ec8b19ad93b334e3231100c93b4d20ffa23a8a8dd57b30a0cbb2950f2a175758"
     },
     {
       "path": "pilot/audio/en1.json",
@@ -212,16 +222,6 @@
       "sha256": "c1271267e664c187bf0cf7fbae2e0e869c7795769f2d7a06de56366ffdd419f9"
     },
     {
-      "path": "pilot/audio-generation.log",
-      "bytes": 355,
-      "sha256": "a7041c8e9b53c6edf3ff7a1dd65b42611047d60b05be60066f03ffe6b88276c0"
-    },
-    {
-      "path": "pilot/audio-manifest.json",
-      "bytes": 5177,
-      "sha256": "ec8b19ad93b334e3231100c93b4d20ffa23a8a8dd57b30a0cbb2950f2a175758"
-    },
-    {
       "path": "pilot/build.log",
       "bytes": 150,
       "sha256": "40602dc0c6e0005e4b14c73faecd1ed196ede60d2894ae4e0d94b4d483362d82"
@@ -345,6 +345,21 @@
       "path": "rebuild/assemble_timeline.py",
       "bytes": 4574,
       "sha256": "0d637a264997cfd887ac81d13c26ebc39f455f9b8376ea9a3a465e347c7b799f"
+    },
+    {
+      "path": "rebuild/audio-generation.log",
+      "bytes": 1415,
+      "sha256": "cce5a1b43d7148df2e38334cb9d6e8bcc92cb220555ceb049d3a74f3a0904b91"
+    },
+    {
+      "path": "rebuild/audio-manifest.json",
+      "bytes": 58715,
+      "sha256": "5afc13106aa5ba035a03b0d7929a241390d9884aecef84b102bbc01cf661c583"
+    },
+    {
+      "path": "rebuild/audio-usage.json",
+      "bytes": 105,
+      "sha256": "d1bd7a9693928b029e55f4c73c04ad94a50964da94ee595f6a8ad756b6e6d0a3"
     },
     {
       "path": "rebuild/audio/en-01.wav",
@@ -887,19 +902,9 @@
       "sha256": "028ee6ec14ec0330db005c7ce000a714062a1146a1703e6f579b8725ae473388"
     },
     {
-      "path": "rebuild/audio-generation.log",
-      "bytes": 1415,
-      "sha256": "cce5a1b43d7148df2e38334cb9d6e8bcc92cb220555ceb049d3a74f3a0904b91"
-    },
-    {
-      "path": "rebuild/audio-manifest.json",
-      "bytes": 58715,
-      "sha256": "5afc13106aa5ba035a03b0d7929a241390d9884aecef84b102bbc01cf661c583"
-    },
-    {
-      "path": "rebuild/audio-usage.json",
-      "bytes": 105,
-      "sha256": "d1bd7a9693928b029e55f4c73c04ad94a50964da94ee595f6a8ad756b6e6d0a3"
+      "path": "rebuild/backgrounds.txt",
+      "bytes": 33353,
+      "sha256": "62205e7a0dc4113c3d66a120c79245e65b905e0cfd527b8874197787d8c6848d"
     },
     {
       "path": "rebuild/backgrounds/benefits.jpg",
@@ -937,14 +942,14 @@
       "sha256": "aeab5f98fdac9fab43137e3eff64ad6282cc4a69115216f7869a2d3637024118"
     },
     {
-      "path": "rebuild/backgrounds.txt",
-      "bytes": 33353,
-      "sha256": "62205e7a0dc4113c3d66a120c79245e65b905e0cfd527b8874197787d8c6848d"
-    },
-    {
       "path": "rebuild/build.log",
       "bytes": 284,
       "sha256": "60ee551efd0a710f9e2bf1565a550a77514f84ffce2b92e68689ffbb04f3e0d7"
+    },
+    {
+      "path": "rebuild/cards.txt",
+      "bytes": 29241,
+      "sha256": "faef29bbf9fe001e028b305560fc2634d6e6b7e91a87ddd9c245cbe65e54a88b"
     },
     {
       "path": "rebuild/cards/0000.png",
@@ -3192,11 +3197,6 @@
       "sha256": "7b129e483deeae1cf4d71557b9e11580b4d8b1ff7fb9168ecc5bfb67ff4618dc"
     },
     {
-      "path": "rebuild/cards.txt",
-      "bytes": 29241,
-      "sha256": "faef29bbf9fe001e028b305560fc2634d6e6b7e91a87ddd9c245cbe65e54a88b"
-    },
-    {
       "path": "rebuild/chapters.md",
       "bytes": 139,
       "sha256": "5bf8642051459b5e0f27fdeadffa3b8006227277f7803a21ac04f09c3f348e65"
@@ -3395,6 +3395,26 @@
       "path": "study-notes.md",
       "bytes": 6462,
       "sha256": "5e6308a6544a1ae4548a92bd32951ba8081422f20cd32359c530af7b064d257b"
+    },
+    {
+      "path": "transparent-title/rain-english-learning.mp4",
+      "bytes": 35248641,
+      "sha256": "366343174172ea1c6c54f8be682cfa477492df7128be35ee805ab93a8f004ae9"
+    },
+    {
+      "path": "transparent-title/thumbnail.png",
+      "bytes": 1673402,
+      "sha256": "aa7c32ddad83ef44e067d09f43afc09faf9848fdf1820bb4a2e9436ab4e5d3e5"
+    },
+    {
+      "path": "transparent-title/제작-기록.md",
+      "bytes": 1800,
+      "sha256": "75cfc77d05f109586c81c60e06753bf3cf530a3dc8f6add7cc2fc4f09aa7ce94"
+    },
+    {
+      "path": "transparent-title/학습-원고.md",
+      "bytes": 7367,
+      "sha256": "95115b6539f764d22fcd630bd7d05e7551c9a9854f99bd828faf33763f5c6e43"
     }
   ]
 }
